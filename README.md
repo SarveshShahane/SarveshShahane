@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Sarvesh! 👋
 
-<!--
-**SarveshShahane/SarveshShahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **software developer** specializing in development. Currently, I'm a **1st-year student at JNU Delhi**, honing my skills and contributing to the tech community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning and exploring the world of software development.
+- 🎮 I enjoy **coding**, **gaming**, and contributing to **open-source projects**.
+- 💡 I'm always eager to learn new technologies and take on challenging problems.
+
+---
+
+## 🛠️ Skills & Technologies
+- **Programming Languages:** Java, C++, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** Node.js, Express.js, EJS, React
+- **Other Skills:** Data Structures and Algorithms (DSA)
+
+---
+
+## 📫 Contact Me
+Feel free to reach out to me! (Links coming soon):
+- **Email:** (to be added)
+- **LinkedIn:** (to be added)
+- **Twitter:** (to be added)
+
+---
+
+## 📊 GitHub Stats
+![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarveshShahane&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshShahane&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting my profile! 😊
