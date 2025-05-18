@@ -20,9 +20,8 @@ I'm a passionate **software developer** specializing in development. Currently, 
 
 ## 📫 Contact Me
 Feel free to reach out to me! (Links coming soon):
-- **Email:** (to be added)
-- **LinkedIn:** (to be added)
-- **Twitter:** (to be added)
+- **Email:** shahanesarvesh45@gmail.com
+- **LinkedIn:** [Sarvesh Shahane](https://www.linkedin.com/in/sarvesh-shahane-7a4092332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
