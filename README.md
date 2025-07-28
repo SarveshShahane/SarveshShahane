@@ -13,7 +13,8 @@ I'm a passionate **software developer** specializing in development. Currently, 
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** Java, C++, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Node.js, Express.js, EJS, React
+- **Frameworks & Libraries:** Node.js, Express.js, EJS, React,Next js,Tailwind css
+- **Concepts:** DBMS, OOPS
 - **Other Skills:** Data Structures and Algorithms (DSA)
 
 ---
