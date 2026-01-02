@@ -1,35 +1,78 @@
-# Hi there, I'm Sarvesh! 👋
+# Hi, I'm Sarvesh Shahane 
 
-I'm a passionate **software developer** specializing in development. Currently, I'm a **1st-year student at JNU Delhi**, honing my skills and contributing to the tech community.
-
----
-
-## 🚀 About Me
-- 🌱 I’m currently learning and exploring the world of software development.
-- 🎮 I enjoy **coding**, **gaming**, and contributing to **open-source projects**.
-- 💡 I'm always eager to learn new technologies and take on challenging problems.
+I'm a **2nd-year Electronics & Communication Engineering (ECE) student at JNU Delhi** with a strong passion for **software development and problem solving**. I enjoy building scalable applications, exploring data-driven systems, and continuously learning new technologies.
 
 ---
 
-## 🛠️ Skills & Technologies
-- **Programming Languages:** Java, C++, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Node.js, Express.js, EJS, React,Next js,Tailwind css
-- **Concepts:** DBMS, OOPS
-- **Other Skills:** Data Structures and Algorithms (DSA)
+##  About Me
+-  Passionate about **software engineering** alongside my ECE studies  
+-  Actively practicing **Data Structures & Algorithms (DSA)**  
+-  **Beginner in Competitive Programming (CP)**  
+-  Currently exploring **Machine Learning** and backend system design  
+-  Curious about how systems work under the hood  
 
 ---
 
-## 📫 Contact Me
-Feel free to reach out to me! (Links coming soon):
-- **Email:** shahanesarvesh45@gmail.com
-- **LinkedIn:** [Sarvesh Shahane](https://www.linkedin.com/in/sarvesh-shahane-7a4092332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+##  Skills & Technologies
+
+###  Programming Languages
+- Python  
+- Java  
+- C++  
+- JavaScript  
+
+###  Web & Backend Development
+- MERN Stack (MongoDB, Express.js, React, Node.js)  
+- Flask  
+- Next.js  
+- EJS  
+
+###  Frontend
+- HTML  
+- CSS  
+- Tailwind CSS  
+- React  
+
+###  Databases & Caching
+- DBMS Concepts  
+- Redis
+- MySQL
+
+###  Core Concepts
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOPs)  
+
+###  Tools & DevOps
+- Git  
+- GitHub  
+- Docker  
+- BullMQ  
+
+###  Data & ML
+- Data Visualization  
+- Learning Machine Learning  
+
+---
+
+##  What I'm Working On
+- Strengthening **DSA & problem-solving skills**  
+- Building **full-stack applications**  
+- Learning **system design basics**  
+- Exploring **Machine Learning fundamentals**  
+
+---
+
+##  Connect With Me
+- **Email:** shahanesarvesh45@gmail.com  
+- **LinkedIn:** [Sarvesh Shahane](https://www.linkedin.com/in/sarvesh-shahane-7a4092332)
 
 ---
 
 ## 📊 GitHub Stats
-![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarveshShahane&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshShahane&layout=compact&theme=radical&cache_seconds=1800)
+![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarveshShahane&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshShahane&layout=compact&theme=radical)
 
 ---
 
-Thanks for visiting my profile! 😊
+✨ *Always learning, always building.*  
+Thanks for stopping by!
