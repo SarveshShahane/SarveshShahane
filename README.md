@@ -1,4 +1,4 @@
-# Hi, I'm Sarvesh Shahane 
+# Hi, I'm Sarvesh 
 
 I'm a **2nd-year Electronics & Communication Engineering (ECE) student at JNU Delhi** with a strong passion for **software development and problem solving**. I enjoy building scalable applications, exploring data-driven systems, and continuously learning new technologies.
 
