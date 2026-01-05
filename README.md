@@ -69,7 +69,8 @@ I'm a **2nd-year Electronics & Communication Engineering (ECE) student at JNU De
 ---
 
 ##  GitHub Stats
-![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarveshShahane&show_icons=true&theme=radical&cache_seconds=1800) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshShahane&layout=compact&theme=radical&cache_seconds=1800)
+![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r3ckl3ss7&show_icons=true&theme=radical&cache_seconds=1800) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3ckl3ss7&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
